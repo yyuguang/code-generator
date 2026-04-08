@@ -1,0 +1,64 @@
+﻿:root {
+  color: #0f172a;
+  background: linear-gradient(135deg, #f8fafc 0%, #e0f2fe 100%);
+  font-family: "Segoe UI", "PingFang SC", sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+.shell {
+  min-height: 100vh;
+}
+
+.hero {
+  padding: 48px 32px 24px;
+}
+
+.eyebrow {
+  margin: 0 0 12px;
+  color: #0369a1;
+  font-size: 12px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.hero h1 {
+  margin: 0;
+  font-size: 40px;
+}
+
+.subtitle {
+  max-width: 760px;
+  color: #334155;
+  line-height: 1.6;
+}
+
+.content {
+  padding: 0 32px 32px;
+}
+
+.grid {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+.panel {
+  background: rgba(255, 255, 255, 0.84);
+  border: 1px solid rgba(14, 116, 144, 0.12);
+  border-radius: 20px;
+  padding: 24px;
+  box-shadow: 0 16px 40px rgba(15, 23, 42, 0.08);
+}
+
+.panel h2 {
+  margin-top: 0;
+}
+
+.panel ul {
+  margin: 0;
+  padding-left: 20px;
+  line-height: 1.8;
+}
