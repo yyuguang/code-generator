@@ -1,6 +1,0 @@
-com\lnzz\codegen\platform\domain\parser\AiPromptTemplateBuilderTest.class
-com\lnzz\codegen\platform\domain\parser\AiSpecJsonParserTest.class
-com\lnzz\codegen\platform\domain\parser\AiSpecParseServiceTest.class
-com\lnzz\codegen\platform\domain\parser\AiSpecParseServiceTest$FakeAiModelGateway.class
-com\lnzz\codegen\platform\domain\validator\SpecSchemaValidatorTest.class
-com\lnzz\codegen\platform\HealthControllerTest.class

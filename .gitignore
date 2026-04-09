@@ -1,5 +1,6 @@
-*/seckill/.idea
-*/seckill/*/target
+*/.idea
+*/*/target
+
 
 ### VS Code ###
 .vscode/
